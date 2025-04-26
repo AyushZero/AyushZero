@@ -38,10 +38,10 @@ Passionate about **software development, UI/UX design, and AI-driven solutions**
 ### 🐾 [Stray Animal Assistance Platform (WISKRR)](https://github.com/AyushZero/WISKRR)  
 _A Flutter-based mobile/web platform powered by Gemini API to provide care resources for stray animals._  
 
-### 💰 [Automated Expense Tracker](https://github.com/AyushZero/Expense-Tracker)  
+### 💰 [Automated Expense Tracker](https://github.com/AyushZero/finance-zero)  
 _Built with Flutter & Firebase, this app categorizes and tracks expenses automatically._  
 
-### ☕ [Café Management System](https://github.com/AyushZero/Cafe-Management)  
+### ☕ [Café Zero](https://github.com/AyushZero/cafe-management-system)  
 _Real-time synchronization system for café operations using Flask, SQL, and JavaScript._  
 
 ---
