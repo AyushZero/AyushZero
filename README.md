@@ -15,7 +15,7 @@
 
 ## ⚙️ Tech Stack
 **Languages**: Python, C++, Java, JavaScript, SQL, Dart, HTML/CSS  
-**Frameworks**: TensorFlow, OpenCV, Scikit-learn, Flutter  
+**Frameworks**: TensorFlow, OpenCV, Scikit-learn, Flutter, DotNET
 **Tools**: Git, MATLAB, Firebase, Power BI, Figma, Adobe Suite  
 **Currently Exploring**: Swift, Docker, R, PHP
 
