@@ -1,25 +1,67 @@
-# Hi there 👋 I'm Ayush Singh (aka AyushZero)
+# Hi, I'm Ayush Singh (AyushZero)
 
-🚀 Computer Science student @ SRM IST | Specializing in AI & ML  
-🎯 Building mobile and web solutions focused on impact, design, and performance  
-💡 Exploring the Apple ecosystem with Swift, Xcode & iOS app dev
+Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology. I’m passionate about building scalable, user-centric digital products using modern tools like Flutter, Gemini API, and Swift.
+
+I combine design thinking with engineering execution to deliver intuitive mobile and web experiences, supported by a strong foundation in data-driven systems and machine learning.
 
 ---
 
-## 🧠 Current Focus
-- Full-stack app development with **Flutter** & **Gemini API**
+## Areas of Focus
+
+- Full-stack development with **Flutter**, **Firebase**, and **Dart**
 - iOS development using **Swift** and **Xcode**
-- ML-powered solutions for real-world use cases
+- Machine Learning integrations with **Gemini API**, **TensorFlow**, and **OpenCV**
+- UI/UX design, rapid prototyping, and creative application development
 
 ---
 
-## ⚙️ Tech Stack
-**Languages**: Python, C++, Java, JavaScript, SQL, Dart, HTML/CSS  
-**Frameworks**: TensorFlow, OpenCV, Scikit-learn, Flutter, DotNET
-**Tools**: Git, MATLAB, Firebase, Power BI, Figma, Adobe Suite  
-**Currently Exploring**: Swift, Docker, R, PHP
+## Core Tech Stack
+
+**Languages**: Dart, Python, C++, Java, JavaScript, SQL, HTML/CSS  
+**Frameworks & Libraries**: Flutter, TensorFlow, Scikit-learn, OpenCV, .NET  
+**Tools**: Git, Firebase, Docker, MATLAB, Figma, Adobe Creative Suite, Blender, Autodesk Maya  
+**Learning**: Swift, R, PHP, NVIDIA Omniverse, Pixar OpenUSD
 
 ---
+
+## Notable Projects
+
+- **Stray Animal Assistance Platform (WISKRR)**  
+  A mobile/web platform for connecting stray animals to care resources, using Flutter and Gemini API for dynamic interaction and support.
+
+- **AI-Supported Expense Tracker**  
+  An intelligent financial tracker that categorizes expenses automatically and provides budget analysis using Gemini API.
+
+- **AI Study Assistant** *(In Progress)*  
+  A real-time study helper integrating Flask, SQL, and Gemini API for generating topic summaries and context-based Q&A.
+
+---
+
+## Experience
+
+**Creative Team Member – Dbug Labs, SRM IST**  
+Designed UI/UX systems, brand assets, and digital media for internal and external club projects. Collaborated on visual identity and user experience design.
+
+**Head Boy – Eicher School**  
+Led student council initiatives and coordinated academic and extracurricular events, enhancing team leadership and communication skills.
+
+---
+
+## 🎨 Hobbies & Interests
+Cooking 🍳 | Poster & Digital Art 🎨 | 3D Modeling 🧊 | Literature 📚 | Traveling 🌍
+
+---
+
+## Contact & Collaboration
+
+📧 Email: [ayushs7890@gmail.com](mailto:ayushs7890@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/ayushsinghzero](https://linkedin.com/in/ayushsinghzero)  
+💻 GitHub: [github.com/AyushZero](https://github.com/AyushZero)
+
+Currently open to internships, freelance collaborations, and project-based work in AI, full-stack development, and creative tech.
+
+---
+
 
 ## 📈 GitHub Stats & Activity
 
@@ -31,26 +73,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushZero&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
----
-
-## 🧩 Notable Projects
-- **Stray Animal Assistance Platform (WISKRR)** — Cross-platform app to help stray animals using AI tools  
-- **AI Expense Tracker** — Automated tracking & categorization via Gemini API  
-- **Café Management System** — Real-time sync backend using Flask and SQL
-
----
-
-## 🎨 Hobbies & Interests
-Cooking 🍳 | Poster & Digital Art 🎨 | 3D Modeling 🧊 | Literature 📚 | Traveling 🌍
-
----
-
-## 📫 Let's Connect
-
-- 📧 [ayushs7890@gmail.com](mailto:ayushs7890@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ayushsinghzero/)
-- 💼 DM for freelance work or collaboration!
 
 ---
 
