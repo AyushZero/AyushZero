@@ -1,12 +1,12 @@
 # Hi, I'm Ayush Singh (AyushZero)
 
-Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology. I’m passionate about building scalable, user-centric digital products using modern tools like Flutter, Gemini API, and Swift.
-
-I combine design thinking with engineering execution to deliver intuitive mobile and web experiences, supported by a strong foundation in data-driven systems and machine learning.
+🎓 Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology.  
+💻 Passionate about building scalable, user-centric digital products using tools like **Flutter**, **Gemini API**, and **Swift**.  
+🧠 I combine design thinking with engineering execution to deliver intuitive mobile and web experiences backed by machine learning.
 
 ---
 
-## Areas of Focus
+## 🚀 Areas of Focus
 
 - Full-stack development with **Flutter**, **Firebase**, and **Dart**
 - iOS development using **Swift** and **Xcode**
@@ -15,7 +15,7 @@ I combine design thinking with engineering execution to deliver intuitive mobile
 
 ---
 
-## Core Tech Stack
+## 🛠️ Core Tech Stack
 
 **Languages**: Dart, Python, C++, Java, JavaScript, SQL, HTML/CSS  
 **Frameworks & Libraries**: Flutter, TensorFlow, Scikit-learn, OpenCV, .NET  
@@ -24,7 +24,7 @@ I combine design thinking with engineering execution to deliver intuitive mobile
 
 ---
 
-## Notable Projects
+## 📂 Notable Projects
 
 - **Stray Animal Assistance Platform (WISKRR)**  
   A mobile/web platform for connecting stray animals to care resources, using Flutter and Gemini API for dynamic interaction and support.
@@ -37,7 +37,7 @@ I combine design thinking with engineering execution to deliver intuitive mobile
 
 ---
 
-## Experience
+## 💼 Experience
 
 **Creative Team Member – Dbug Labs, SRM IST**  
 Designed UI/UX systems, brand assets, and digital media for internal and external club projects. Collaborated on visual identity and user experience design.
@@ -48,20 +48,20 @@ Led student council initiatives and coordinated academic and extracurricular eve
 ---
 
 ## 🎨 Hobbies & Interests
-Cooking 🍳 | Poster & Digital Art 🎨 | 3D Modeling 🧊 | Literature 📚 | Traveling 🌍
+
+Cooking | Digital Art | 3D Modeling | Literature | Traveling
 
 ---
 
-## Contact & Collaboration
+## 📫 Contact & Collaboration
 
-📧 Email: [ayushs7890@gmail.com](mailto:ayushs7890@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/ayushsinghzero](https://linkedin.com/in/ayushsinghzero)  
-💻 GitHub: [github.com/AyushZero](https://github.com/AyushZero)
+- Email: [ayushs7890@gmail.com](mailto:ayushs7890@gmail.com)  
+- LinkedIn: [linkedin.com/in/ayushsinghzero](https://linkedin.com/in/ayushsinghzero)  
+- GitHub: [github.com/AyushZero](https://github.com/AyushZero)  
 
-Currently open to internships, freelance collaborations, and project-based work in AI, full-stack development, and creative tech.
+Open to internships, freelance collaborations, and project-based work in AI, full-stack development, and creative tech.
 
 ---
-
 
 ## 📈 GitHub Stats & Activity
 
@@ -76,7 +76,6 @@ Currently open to internships, freelance collaborations, and project-based work 
 
 ---
 
-<!-- Optional Profile Views Counter -->
- <p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AyushZero&style=flat-square&color=blue" alt="Profile views"/>
-</p> 
+</p>
