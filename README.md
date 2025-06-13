@@ -1,4 +1,4 @@
-# Hi, I'm Ayush Singh (AyushZero)
+# Hi, I'm Ayush Singh (aka AyushZero)
 
 🎓 Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology.  
 💻 Passionate about building scalable, user-centric digital products using tools like **Flutter**, **Gemini API**, and **Swift**.  
@@ -32,7 +32,7 @@
 - **AI-Supported Expense Tracker**  
   An intelligent financial tracker that categorizes expenses automatically and provides budget analysis using Gemini API.
 
-- **AI Study Assistant** *(In Progress)*  
+- **AI Study Assistant**
   A real-time study helper integrating Flask, SQL, and Gemini API for generating topic summaries and context-based Q&A.
 
 ---
