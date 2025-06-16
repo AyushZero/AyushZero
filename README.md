@@ -26,7 +26,7 @@
 
 ## 📂 Notable Projects
 
-- **Stray Animal Assistance Platform (WISKRR)**  
+- **Stray Animal Assistance Platform (WISKRR) ~ In progress **  
   A mobile/web platform for connecting stray animals to care resources, using Flutter and Gemini API for dynamic interaction and support.
 
 - **AI-Supported Expense Tracker**  
