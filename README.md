@@ -20,7 +20,7 @@
 **Languages**: Dart, Python, C++, Java, JavaScript, SQL, HTML/CSS  
 **Frameworks & Libraries**: Flutter, TensorFlow, Scikit-learn, OpenCV, .NET  
 **Tools**: Git, Firebase, Docker, MATLAB, Figma, Adobe Creative Suite, Blender, Autodesk Maya  
-**Learning**: Swift, R, PHP, NVIDIA Omniverse, Pixar OpenUSD
+**Learning**: Swift, R, PHP
 
 ---
 
