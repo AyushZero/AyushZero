@@ -1,17 +1,17 @@
 # Hi, I'm Ayush Singh (aka AyushZero)
 
 🎓 Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology.  
-💻 Passionate about building scalable, user-centric digital products using tools like **Flutter**, **Gemini API**, and **Swift**.  
-🧠 I combine design thinking with engineering execution to deliver intuitive mobile and web experiences backed by machine learning.
+💻 I build intuitive, scalable products that merge UI/UX thinking with practical tech. My go-to tools include **Flutter**, **Gemini API**, and **Firebase**.  
+🧠 I focus on solving real-world problems with full-stack solutions powered by modern ML and clean design.
 
 ---
 
 ## 🚀 Areas of Focus
 
-- Full-stack development with **Flutter**, **Firebase**, and **Dart**
-- iOS development using **Swift** and **Xcode**
-- Machine Learning integrations with **Gemini API**, **TensorFlow**, and **OpenCV**
-- UI/UX design, rapid prototyping, and creative application development
+- Full-stack development using **Flutter**, **Firebase**, and **Dart**
+- AI integrations via **Gemini API**, **Flask**, and **OpenCV**
+- UI/UX design with a minimal, user-first approach
+- Cross-platform systems with **.NET**, **Electron.js**, and responsive Flutter UI
 
 ---
 
@@ -19,31 +19,31 @@
 
 **Languages**: Dart, Python, C++, Java, JavaScript, SQL, HTML/CSS  
 **Frameworks & Libraries**: Flutter, TensorFlow, Scikit-learn, OpenCV, .NET  
-**Tools**: Git, Firebase, Docker, MATLAB, Figma, Adobe Creative Suite, Blender, Autodesk Maya  
+**Tools**: Git, Firebase, Figma, Adobe Creative Suite, Blender, Vercel, Node.js  
 **Learning**: Swift, R, PHP
 
 ---
 
 ## 📂 Notable Projects
 
-- **Stray Animal Assistance Platform (WISKRR) In progress**  
-  A mobile/web platform for connecting stray animals to care resources, using Flutter and Gemini API for dynamic interaction and support.
+- **Stray Animal Assistance Platform (WISKRR) [In Progress]**  
+  A mobile/web system to connect stray animals to shelters and care, using Firebase and Google Maps for real-time interaction.
 
-- **AI-Supported Expense Tracker**  
-  An intelligent financial tracker that categorizes expenses automatically and provides budget analysis using Gemini API.
+- **Finance Zero – AI-Supported Expense Tracker**  
+  Automatically categorizes expenses from text and OCR using Gemini API, with budget analytics and speech-to-text input.
 
-- **AI Study Assistant**
-  A real-time study helper integrating Flask, SQL, and Gemini API for generating topic summaries and context-based Q&A.
+- **AI Study Assistant**  
+  A natural language-driven academic tool using Flask and SQL, offering contextual memory and smart topic breakdowns.
 
 ---
 
 ## 💼 Experience
 
 **Creative Team Member – Dbug Labs, SRM IST**  
-Designed UI/UX systems, brand assets, and digital media for internal and external club projects. Collaborated on visual identity and user experience design.
+Built UI/UX assets and digital branding for tech events and student platforms. Worked across design and frontend workflows.
 
 **Head Boy – Eicher School**  
-Led student council initiatives and coordinated academic and extracurricular events, enhancing team leadership and communication skills.
+Led the student council, organized campus-wide initiatives, and developed leadership through team coordination.
 
 ---
 
@@ -59,7 +59,7 @@ Cooking | Digital Art | 3D Modeling | Literature | Traveling
 - LinkedIn: [linkedin.com/in/ayushsinghzero](https://linkedin.com/in/ayushsinghzero)  
 - GitHub: [github.com/AyushZero](https://github.com/AyushZero)  
 
-Open to internships, freelance collaborations, and project-based work in AI, full-stack development, and creative tech.
+Open to internships, freelance work, and real-world projects in AI, full-stack engineering, and creative software design.
 
 ---
 
